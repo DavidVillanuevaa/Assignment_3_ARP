@@ -37,7 +37,7 @@ The application opens two windows (both 90x30 sized), one for processA and anoth
 
 <img title="Server execution" src="./out/Client.png"/>
 
-It is possible to go back to this menu by pressing 'q', and another option could be selected.
+The aditional features for changing the modality during execution without exiting the program, and disconectiong and reconecting to a different machine have been implemented. It is possible to go back to this menu by pressing 'q', and another option could be selected.
 
 
 ## Process B

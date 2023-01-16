@@ -18,7 +18,7 @@ In a shell, under the root directory of the project, type the following command:
 It will compile the sources with the corresponding linkers under the directory `./src` and the binaries will be generated under the directory `./bin`. Then, the master process will run.
 
 It may occur that the sheel script does not have execution permission. In order to change the permissions of the file it is enough to run :
-'chmod +x main.sh'
+`chmod +x main.sh`
 
 # Application behaviour
 The application opens two windows (both 90x30 sized), one for processA and another one for processB. Process A shows a menu with different execution options, as can be seen in the following image:

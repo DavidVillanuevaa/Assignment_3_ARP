@@ -1,0 +1,1832 @@
+Mon Jan 16 19:58:04 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:04 2023 - READER semaphore entered
+Mon Jan 16 19:58:24 2023 - Moving circle to position [930,253]
+Mon Jan 16 19:58:24 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:24 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:24 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:24 2023 - READER semaphore entered
+Mon Jan 16 19:58:28 2023 - Moving circle to position [950,254]
+Mon Jan 16 19:58:28 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:28 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:28 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:28 2023 - READER semaphore entered
+Mon Jan 16 19:58:28 2023 - Moving circle to position [970,253]
+Mon Jan 16 19:58:28 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:28 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:28 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:28 2023 - READER semaphore entered
+Mon Jan 16 19:58:28 2023 - Moving circle to position [990,254]
+Mon Jan 16 19:58:28 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:28 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:28 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:28 2023 - READER semaphore entered
+Mon Jan 16 19:58:28 2023 - Moving circle to position [1010,253]
+Mon Jan 16 19:58:28 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:28 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:28 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:28 2023 - READER semaphore entered
+Mon Jan 16 19:58:29 2023 - Moving circle to position [1030,254]
+Mon Jan 16 19:58:29 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:29 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:29 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:29 2023 - READER semaphore entered
+Mon Jan 16 19:58:29 2023 - Moving circle to position [1050,253]
+Mon Jan 16 19:58:29 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:29 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:29 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:29 2023 - READER semaphore entered
+Mon Jan 16 19:58:29 2023 - Moving circle to position [1070,254]
+Mon Jan 16 19:58:29 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:29 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:29 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:29 2023 - READER semaphore entered
+Mon Jan 16 19:58:29 2023 - Moving circle to position [1090,253]
+Mon Jan 16 19:58:29 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:29 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:29 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:29 2023 - READER semaphore entered
+Mon Jan 16 19:58:29 2023 - Moving circle to position [1110,254]
+Mon Jan 16 19:58:29 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:29 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:29 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:29 2023 - READER semaphore entered
+Mon Jan 16 19:58:29 2023 - Moving circle to position [1130,253]
+Mon Jan 16 19:58:29 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:29 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:29 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:29 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1150,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1170,253]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1190,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1210,253]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1230,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1250,253]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1270,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1290,253]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1310,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1330,253]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1350,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1370,253]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1390,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1410,253]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1430,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1450,253]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1470,254]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:30 2023 - Moving circle to position [1470,273]
+Mon Jan 16 19:58:30 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:30 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:30 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:30 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,293]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,313]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,333]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,353]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,373]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,393]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,413]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,433]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1470,453]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:31 2023 - Moving circle to position [1450,454]
+Mon Jan 16 19:58:31 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:31 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:31 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:31 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1430,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1410,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1390,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1370,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1350,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1330,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1310,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1290,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1270,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1250,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1230,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1210,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1190,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1170,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1150,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1130,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1110,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1090,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1070,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1050,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1030,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [1010,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [990,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [970,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [950,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [930,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [910,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [890,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [870,453]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:32 2023 - Moving circle to position [850,454]
+Mon Jan 16 19:58:32 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:32 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:32 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:32 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [830,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [810,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [790,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [770,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [750,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [730,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [710,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [690,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [670,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [650,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [630,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [610,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [590,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [570,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [550,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [530,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [510,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [490,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [470,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [450,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [430,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [410,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [390,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [370,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [350,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [330,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [310,453]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [290,454]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:33 2023 - Moving circle to position [290,433]
+Mon Jan 16 19:58:33 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:33 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:33 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:33 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,413]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,393]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,373]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,353]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,333]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,313]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,293]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,273]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,253]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,233]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,213]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,193]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,173]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,153]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,133]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,113]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:34 2023 - Moving circle to position [290,93]
+Mon Jan 16 19:58:34 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:34 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:34 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:34 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [310,94]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [330,93]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [350,94]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [370,93]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [390,94]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [410,93]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [430,94]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [450,93]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [470,94]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [490,93]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [510,94]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [530,93]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [550,94]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [570,93]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:35 2023 - Moving circle to position [590,94]
+Mon Jan 16 19:58:35 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:35 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:35 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:35 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [610,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [630,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [650,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [670,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [690,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [710,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [730,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [750,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [770,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [790,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [810,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [830,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [850,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [870,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [890,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [910,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [930,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [950,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [970,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [990,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [1010,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [1030,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [1050,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [1070,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [1090,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [1110,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [1130,93]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:36 2023 - Moving circle to position [1150,94]
+Mon Jan 16 19:58:36 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:36 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:36 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:36 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1170,93]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1190,94]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1210,93]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1230,94]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1250,93]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1270,94]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1290,93]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1310,94]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1330,93]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1350,94]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1350,113]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1350,133]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:37 2023 - Moving circle to position [1330,134]
+Mon Jan 16 19:58:37 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:37 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:37 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:37 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1310,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1290,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1270,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1250,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1230,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1210,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1190,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1170,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1150,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1130,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1110,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1090,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1070,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1050,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1030,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [1010,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [990,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [970,134]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:38 2023 - Moving circle to position [950,133]
+Mon Jan 16 19:58:38 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:38 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:38 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:38 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [930,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [910,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [890,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [870,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [850,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [830,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [810,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [790,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [770,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [750,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [730,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [710,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [690,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [670,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [650,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [630,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [610,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [590,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [570,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [550,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [530,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [510,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [490,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [470,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [450,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [430,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [410,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [390,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [370,134]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [350,133]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:39 2023 - Moving circle to position [350,153]
+Mon Jan 16 19:58:39 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:39 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:39 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:39 2023 - READER semaphore entered
+Mon Jan 16 19:58:40 2023 - Moving circle to position [370,154]
+Mon Jan 16 19:58:40 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:40 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:40 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:40 2023 - READER semaphore entered
+Mon Jan 16 19:58:40 2023 - Moving circle to position [370,173]
+Mon Jan 16 19:58:40 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:40 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:40 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:40 2023 - READER semaphore entered
+Mon Jan 16 19:58:40 2023 - Moving circle to position [390,174]
+Mon Jan 16 19:58:40 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:40 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:40 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:40 2023 - READER semaphore entered
+Mon Jan 16 19:58:40 2023 - Moving circle to position [410,173]
+Mon Jan 16 19:58:40 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:40 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:40 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:40 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [430,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [450,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [470,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [490,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [510,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [530,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [550,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [570,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [590,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [610,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [630,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [650,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [670,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [690,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [710,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [730,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [750,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [770,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [790,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [810,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [830,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [850,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [870,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [890,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [910,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [930,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [950,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [970,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [990,174]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:41 2023 - Moving circle to position [1010,173]
+Mon Jan 16 19:58:41 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:41 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:41 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:41 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1030,174]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1050,173]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1070,174]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1090,173]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1110,174]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1130,173]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1150,174]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1170,173]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1190,174]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1210,173]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1230,174]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1250,173]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:42 2023 - Moving circle to position [1250,193]
+Mon Jan 16 19:58:42 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:42 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:42 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:42 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1230,194]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1210,193]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1190,194]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1170,193]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1150,194]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1130,193]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1110,194]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1090,193]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1070,194]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1050,193]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1030,194]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [1010,193]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:43 2023 - Moving circle to position [990,194]
+Mon Jan 16 19:58:43 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:43 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:43 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:43 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [970,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [950,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [930,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [910,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [890,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [870,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [850,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [830,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [810,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [790,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [770,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [750,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [730,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [710,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [690,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [670,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [650,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [630,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [610,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [590,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [570,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [550,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [530,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [510,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [490,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [470,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [450,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [430,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [410,193]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:44 2023 - Moving circle to position [390,194]
+Mon Jan 16 19:58:44 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:44 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:44 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:44 2023 - READER semaphore entered
+Mon Jan 16 19:58:45 2023 - Moving circle to position [370,193]
+Mon Jan 16 19:58:45 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:45 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:45 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:45 2023 - READER semaphore entered
+Mon Jan 16 19:58:45 2023 - Moving circle to position [350,194]
+Mon Jan 16 19:58:45 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:45 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:45 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:45 2023 - READER semaphore entered
+Mon Jan 16 19:58:45 2023 - Moving circle to position [330,193]
+Mon Jan 16 19:58:45 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:45 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:45 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:45 2023 - READER semaphore entered
+Mon Jan 16 19:58:45 2023 - Moving circle to position [330,173]
+Mon Jan 16 19:58:45 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:45 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:45 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:45 2023 - READER semaphore entered
+Mon Jan 16 19:58:45 2023 - Moving circle to position [330,153]
+Mon Jan 16 19:58:45 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:45 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:45 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:45 2023 - READER semaphore entered
+Mon Jan 16 19:58:45 2023 - Moving circle to position [330,133]
+Mon Jan 16 19:58:45 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:45 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:45 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:45 2023 - READER semaphore entered
+Mon Jan 16 19:58:45 2023 - Moving circle to position [330,113]
+Mon Jan 16 19:58:45 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:45 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:45 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:45 2023 - READER semaphore entered
+Mon Jan 16 19:58:46 2023 - Moving circle to position [350,114]
+Mon Jan 16 19:58:46 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:46 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:46 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:46 2023 - READER semaphore entered
+Mon Jan 16 19:58:46 2023 - Moving circle to position [370,113]
+Mon Jan 16 19:58:46 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:46 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:46 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:46 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [390,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [410,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [430,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [450,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [470,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [490,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [510,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [530,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [550,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [570,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [590,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [610,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [630,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [650,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [670,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [690,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [710,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [730,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [750,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [770,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [790,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [810,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [830,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [850,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [870,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [870,133]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:48 2023 - Moving circle to position [870,153]
+Mon Jan 16 19:58:48 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:48 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:48 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:48 2023 - READER semaphore entered
+Mon Jan 16 19:58:55 2023 - Moving circle to position [870,193]
+Mon Jan 16 19:58:55 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:55 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:55 2023 - Waiting for READER semaphore
+ore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [610,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [630,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [650,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [670,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [690,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [710,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [730,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [750,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [770,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [790,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [810,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [830,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [850,113]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [870,114]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:47 2023 - Moving circle to position [870,133]
+Mon Jan 16 19:58:47 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:47 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:47 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:47 2023 - READER semaphore entered
+Mon Jan 16 19:58:48 2023 - Moving circle to position [870,153]
+Mon Jan 16 19:58:48 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:48 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:48 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:48 2023 - READER semaphore entered
+Mon Jan 16 19:58:55 2023 - Moving circle to position [870,173]
+Mon Jan 16 19:58:55 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:55 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:55 2023 - Waiting for READER semaphore
+Mon Jan 16 19:58:55 2023 - READER semaphore entered
+Mon Jan 16 19:58:55 2023 - Moving circle to position [870,213]
+Mon Jan 16 19:58:55 2023 - Leaving the WRITER semaphore
+Mon Jan 16 19:58:55 2023 - WRITER semaphore unlocked
+Mon Jan 16 19:58:55 2023 - Waiting for READER semaphore
